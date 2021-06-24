@@ -1017,11 +1017,6 @@ sys.exit(app.exec_())
 
 
 
-
-
-
-
-
 # run_starlight()
 
 #------------------------------------------------------MAIN PROGRAM----------------------------------------------------#
@@ -1045,7 +1040,7 @@ sys.exit(app.exec_())
 #             return 'none'
 #         return hot_key
 #     while True:
-#         key = vVvccccccccccchot_word()
+#         key = hot_word()
 #         if ('wake up' in key) or ('get up' in key) or ('wakeup' in key) or ('getup' in key) or ('help me' in key):
 #             run_starlight()
 #         elif ('good bye' in key) or ('close yourself' in key):
